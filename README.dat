@@ -3,11 +3,12 @@
 
 
 			Mini-Paint
-
-
+			
+	A simple paint simulator using pygame library. The user can draw and erase by moving the mouse and using the following
+	commands for changing the colour or the type of pencil:
 
 	"A" - pencil 1
-	"S" - pensil 2
+	"S" - pencil 2
 	"D" - pencil 3
 	"E" - erase
 	"H" - black
